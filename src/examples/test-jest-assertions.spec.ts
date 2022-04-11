@@ -26,7 +26,7 @@ describe('Primitive values', () => {
   });
 });
 
-describe('Primitive values', () => {
+describe('Objects', () => {
   it('should test jest assertions with objects', () => {
     const person = { name: 'Math', age: 20 };
     const anotherPerson = { ...person };
